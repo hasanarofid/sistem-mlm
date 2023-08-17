@@ -5,5 +5,5 @@ project Sistem MLM
 
 
 ```
-$ composer install
+composer install
 ```
